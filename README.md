@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Architalya8888
+- 👋 Hi, I’m Archit Alya
 - 👀 I’m interested in Managmemt
 - 🌱 I’m currently learning DSA,Web Developement
 - 💞️ I’m looking to collaborate on ...
